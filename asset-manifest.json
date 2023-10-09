@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/gouravprofile/static/css/main.6b501f02.css",
+    "main.js": "/gouravprofile/static/js/main.bbbf435e.js",
+    "static/media/food-order.png": "/gouravprofile/static/media/food-order.9dbcdfdf7d0deaefdbfe.png",
+    "static/media/e-commerce.png": "/gouravprofile/static/media/e-commerce.17d7df1a29854e5c0f93.png",
+    "static/media/resume.pdf": "/gouravprofile/static/media/resume.838312ff468c37f8f1df.pdf",
+    "static/media/my-portfolio.png": "/gouravprofile/static/media/my-portfolio.c86979f4f3242abbb885.png",
+    "static/media/boy.png": "/gouravprofile/static/media/boy.2aa9c1a1343b6adbe97f.png",
+    "static/media/compalin-box.png": "/gouravprofile/static/media/compalin-box.f2aadc2c1d7820d36881.png",
+    "static/media/glassesimoji.png": "/gouravprofile/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/Airtel Project.jpg": "/gouravprofile/static/media/Airtel Project.cc7adbb45fd134fe3a1a.jpg",
+    "static/media/node-js-removebg-preview.png": "/gouravprofile/static/media/node-js-removebg-preview.568f1e251f960dde10de.png",
+    "static/media/twitter_clone.jpg": "/gouravprofile/static/media/twitter_clone.50e34e9ec1a044f94f03.jpg",
+    "static/media/thumbup.png": "/gouravprofile/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/Spring_Boot-removebg-preview.png": "/gouravprofile/static/media/Spring_Boot-removebg-preview.bb48d300f8e457b12845.png",
+    "static/media/humble.png": "/gouravprofile/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/gouravprofile/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/gouravprofile/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/gouravprofile/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/gouravprofile/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/gouravprofile/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/React-js-removebg-preview.png": "/gouravprofile/static/media/React-js-removebg-preview.4c323374a1877b32ee8f.png",
+    "static/media/js-logo-removebg-preview.png": "/gouravprofile/static/media/js-logo-removebg-preview.e9e83b3d757a4b6bb574.png",
+    "index.html": "/gouravprofile/index.html",
+    "main.6b501f02.css.map": "/gouravprofile/static/css/main.6b501f02.css.map",
+    "main.bbbf435e.js.map": "/gouravprofile/static/js/main.bbbf435e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b501f02.css",
+    "static/js/main.bbbf435e.js"
+  ]
+}
