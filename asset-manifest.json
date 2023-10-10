@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gouravprofile/static/css/main.6b501f02.css",
-    "main.js": "/gouravprofile/static/js/main.bbbf435e.js",
+    "main.css": "/gouravprofile/static/css/main.1a9201f9.css",
+    "main.js": "/gouravprofile/static/js/main.87e092fa.js",
     "static/media/food-order.png": "/gouravprofile/static/media/food-order.9dbcdfdf7d0deaefdbfe.png",
     "static/media/e-commerce.png": "/gouravprofile/static/media/e-commerce.17d7df1a29854e5c0f93.png",
     "static/media/resume.pdf": "/gouravprofile/static/media/resume.838312ff468c37f8f1df.pdf",
@@ -23,11 +23,11 @@
     "static/media/React-js-removebg-preview.png": "/gouravprofile/static/media/React-js-removebg-preview.4c323374a1877b32ee8f.png",
     "static/media/js-logo-removebg-preview.png": "/gouravprofile/static/media/js-logo-removebg-preview.e9e83b3d757a4b6bb574.png",
     "index.html": "/gouravprofile/index.html",
-    "main.6b501f02.css.map": "/gouravprofile/static/css/main.6b501f02.css.map",
-    "main.bbbf435e.js.map": "/gouravprofile/static/js/main.bbbf435e.js.map"
+    "main.1a9201f9.css.map": "/gouravprofile/static/css/main.1a9201f9.css.map",
+    "main.87e092fa.js.map": "/gouravprofile/static/js/main.87e092fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b501f02.css",
-    "static/js/main.bbbf435e.js"
+    "static/css/main.1a9201f9.css",
+    "static/js/main.87e092fa.js"
   ]
 }
