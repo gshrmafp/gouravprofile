@@ -1,8 +1,7 @@
 import React from "react";
 import "./Testimonial.css";
 import { Swiper, SwiperSlide } from "swiper/react";
-import "swiper/css";
-
+import "swiper/swiper-bundle.min.css"; // Import Swiper styles
 import { Pagination } from "swiper";
 import "swiper/css/pagination";
 import profilePic1 from "../../img/Airtel-logo.png";
@@ -37,15 +36,13 @@ const Testimonial = () => {
   return (
     <div className="t-wrapper" id="testimonial">
       <div className="t-heading">
-        <span>My Intership </span>
+        <span>My Internship </span>
         <span>Experience Work </span>
         <span>Learning for me...</span>
-      <div className="blur t-blur1" style={{ background: "var(--purple)" }}></div>
-      <div className="blur t-blur2" style={{ background: "skyblue" }}></div>
-
+        <div className="blur t-blur1" style={{ background: "var(--purple)" }}></div>
+        <div className="blur t-blur2" style={{ background: "skyblue" }}></div>
       </div>
       <Swiper
-        // install Swiper modules
         modules={[Pagination]}
         slidesPerView={1}
         pagination={{ clickable: true }}
