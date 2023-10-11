@@ -1,7 +1,7 @@
 import React from "react";
 import "./Testimonial.css";
 import { Swiper, SwiperSlide } from "swiper/react";
-import "swiper/swiper-bundle.min.css"; // Import Swiper styles
+import "swiper/swiper-bundle.min.css"; 
 import { Pagination } from "swiper";
 import "swiper/css/pagination";
 import profilePic1 from "../../img/Airtel-logo.png";
