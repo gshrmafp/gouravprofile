@@ -30,7 +30,7 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hi! I Am</span>
           <span>Gourav Sharma ji </span>
           <span>
-            Mobile App Developer with high level of experience in web designing
+            React Native Cli Mobile App Developer with high level of experience in web designing
             and development, producting the Quality work
           </span>
         </div>
